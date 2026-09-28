@@ -61,8 +61,8 @@ const thresholdCases = [
 
 const correctPipeline = [
   "Business Problem",
-  "Data Preparation",
   "Train–Test Split",
+  "Data Preparation",
   "Train Model",
   "Validation / Cross-Validation",
   "Final Test",

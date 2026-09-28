@@ -10,6 +10,7 @@ A modern, Gen-Z-friendly course portal for **Predictive Analytics** at Universit
 - Assessment tracker
 - Learning stack overview
 - Responsive layout optimized for mobile and desktop
+- Interactive **Predictive Analytics Playground** with 5 mini-games, XP, badges, and instant feedback
 - No environment variables required
 
 ## Tech stack
@@ -46,3 +47,15 @@ The weekly roadmap follows the Predictive Analytics RPS used in this course and 
 
 ---
 Learn → Build → Explain → Create impact.
+
+
+## Mini-games
+
+Open `/games` to play:
+- Metric Rush
+- Leakage Detective
+- Threshold Arena
+- Pipeline Sprint
+- Model Match
+
+Game progress and XP are stored locally in the visitor's browser.

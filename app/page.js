@@ -232,7 +232,8 @@ export default function Home() {
             <a href="#schedule">Schedule</a>
             <a href="#roadmap">Roadmap</a>
             <a href="#assessment">Tasks</a>
-            <a className="navCta" href="#materials">Explore course</a>
+            <a href="#materials">Materials</a>
+            <a className="navCta" href="/games">🎮 Games</a>
           </div>
         </nav>
 
@@ -253,6 +254,7 @@ export default function Home() {
             <div className="heroActions">
               <a className="button primary" href="#schedule">Lihat class schedule</a>
               <a className="button secondary" href="#roadmap">Explore 16 minggu</a>
+              <a className="button secondary" href="/games">Play mini games 🎮</a>
             </div>
             <div className="heroStats">
               <div><strong>16</strong><span>weekly sessions</span></div>
